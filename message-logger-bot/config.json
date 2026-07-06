@@ -1,3 +1,7 @@
+$ npm install discord.js
+$ npm install fs
+$ npm install moment
+$ node index.js
 {
     "token": "your-token-here"
 }
